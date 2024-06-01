@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    margin: auto;
+    border: 3px;
+    align-items: center;
+}
+.container{
+    background:linear-gradient( white,gray);
+    border: 5px;
+    border-radius: 5px;
+    margin: auto;
+    padding: 3px;
+    box-shadow: 5px 5px 15px gray;
+    align-items: center;
+    justify-content: center;
+}
