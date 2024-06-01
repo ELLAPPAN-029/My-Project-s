@@ -1,0 +1,38 @@
+.login{
+    border:20px;
+    background:linear-gradient(to left,blue,pink );
+    border-radius: 20px;
+    padding: 20px;
+    justify-content: flex;
+    align-items: center ;
+    box-shadow: 10px 10px 50px grey;
+    text-decoration: center;
+    width: 300px;
+    height: 350px;
+    margin:auto;
+}
+body{
+    background:linear-gradient(to right,blue,pink );
+    background-repeat: no-repeat;
+    border: 10px;
+    border-color: black;
+    padding: 20px;
+    display: flex;
+}
+h1{
+    font-size: 30px;
+    padding-left: 40%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px black;
+}
+label{
+      display:flex;
+      flex-direction: column;
+}
+input{
+    border: 5px;
+    margin: 5% auto;
+    background-color: transparent;
+    color:black;
+    padding-left: 0px;
+}
