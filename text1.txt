@@ -3,3 +3,4 @@ git add filename
 git commit -m "Commit mesg"
 git push origin main
 some change in web github use to reflect to vs code = git pull 
+first four steps are same in delete a file in to reflect it .
