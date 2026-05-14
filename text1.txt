@@ -1,1 +1,5 @@
-this is changed
+git clone "repo link"
+git add filename
+git commit -m "Commit mesg"
+git push origin main
+some change in web github use to reflect to vs code = git pull 
